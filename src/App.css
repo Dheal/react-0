@@ -14,7 +14,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/b/b1/Elegant_Background-6.jpg) ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
